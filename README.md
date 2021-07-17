@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/yogameleniawan/yogameleniawan/blob/master/git.jpg">
+<img src="https://github.com/yogameleniawan/yogameleniawan/blob/master/image.jpg">
 
 ### Hi there 👋:
 
