@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 <br><br><br><br><br><br>
 <br><br><br>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yogameleniawan&&&count_private=true&show_icons=true&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a" width="350">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogameleniawan&&show_icons=tru&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a&layout=compact" width="270">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yogameleniawan&&&count_private=true&show_icons=true&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a" width="400">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogameleniawan&&show_icons=tru&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a&layout=compact" width="320">
 </p>
 
 
