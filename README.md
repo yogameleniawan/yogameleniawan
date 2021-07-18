@@ -14,14 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <img src="https://github.com/yogameleniawan/yogameleniawan/blob/master/image.jpg">
 
 ### Hi there 👋:
 
-<p>🔭 I’m currently start with Send Production</p>
+<p>🔭 I’m currently start with Send Production
+</p>
+<p>
+<img alt="Visual Studio Code" width="100px" src="https://github.com/yogameleniawan/yogameleniawan/blob/master/1.png" />
+<br>
 <a href="https://www.linkedin.com/company/send-production/about/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height=25></a>
 <a href="https://www.instagram.com/sendproduction.id/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" height=25></a>
-<br>
+</p>
 <p>🌱 I’m currently learning everything 😄</p>
 
 ### Connect with Me:
@@ -43,7 +48,19 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yogameleniawan&&&count_private=true&show_icons=true&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a" width="500">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogameleniawan&&show_icons=tru&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a&layout=compact" width="420"></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogameleniawan&&&count_private=true&show_icons=true&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogameleniawan&&show_icons=tru&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a">
+
+
+
+    
+
+
+
+
+
+
+
 
