@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <p>
 <img align="left" alt="Illustrator" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Adobe_Illustrator_Icon_%28CS6%29.svg/1200px-Adobe_Illustrator_Icon_%28CS6%29.svg.png" />
 <img align="left" alt="Photoshop" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/781px-Adobe_Photoshop_CS6_icon.svg.png" />
+    <img align="left" alt="Corel" width="50px" src="https://seeklogo.com/images/C/coreldraw-x7-logo-747B0DC253-seeklogo.com.png" />
 </p>
 <br><br><br><br><br>
 <p>
