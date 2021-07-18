@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </p>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yogameleniawan&&&count_private=true&show_icons=true&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a" width="400">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogameleniawan&&show_icons=tru&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a&layout=compact" width="320">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yogameleniawan&&&count_private=true&show_icons=true&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a" width="340">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogameleniawan&&show_icons=tru&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a&layout=compact" width="260">
 </p>
 
 
