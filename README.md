@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Laravel" width="50px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 <img align="left" alt="Flutter" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
+<img align="left" alt="Firebase" width="50px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=id" />
 <img align="left" alt="PHP" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
