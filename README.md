@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <p>
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Java" width="50px" src="https://arnondora.in.th/content/images/2021/01/Get-to-know-Java-Logo.png" />
+<img align="left" alt="Android" width="50px" src="https://abisonna.files.wordpress.com/2017/10/android-boot-logo_634639.jpg" />
 <img align="left" alt="Laravel" width="50px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 <img align="left" alt="Flutter" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
 <img align="left" alt="Firebase" width="50px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=id" />
