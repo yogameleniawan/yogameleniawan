@@ -48,9 +48,6 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Illustrator" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Adobe_Illustrator_Icon_%28CS6%29.svg/1200px-Adobe_Illustrator_Icon_%28CS6%29.svg.png" />
-<img align="left" alt="Photoshop" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/781px-Adobe_Photoshop_CS6_icon.svg.png" />
-<img align="left" alt="Corel" width="50px" src="https://seeklogo.com/images/C/coreldraw-x7-logo-747B0DC253-seeklogo.com.png" />
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yogameleniawan&&&count_private=true&show_icons=true&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a" width="400">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogameleniawan&&show_icons=tru&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a&layout=compact" width="320">
