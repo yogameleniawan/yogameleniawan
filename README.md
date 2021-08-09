@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Hi there 👋:
 <img src="https://github.com/yogameleniawan/yogameleniawan/blob/master/image.jpg">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yogameleniawan&&&count_private=true&show_icons=true&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a" width="400">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogameleniawan&&show_icons=tru&title_color=37903f&icon_color=eeeeee&text_color=eeeeee&bg_color=0a0a0a&layout=compact" width="340">
@@ -22,16 +22,15 @@ Here are some ideas to get you started:
 <p>
 <br><br><br><br><br><br><br><br>
     
-### Hi there 👋:
-
+### What i do now :
+<p>
 <p>🔭 I’m currently start with Send Production
 </p>
-<p>
-<img alt="Visual Studio Code" width="100px" src="https://github.com/yogameleniawan/yogameleniawan/blob/master/1.png" />
-<br>
+
+<code><img alt="Visual Studio Code" width="100px" src="https://github.com/yogameleniawan/yogameleniawan/blob/master/1.png" /></code>
 <code><a href="https://www.linkedin.com/company/send-production/about/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height=25></a></code>
 <code><a href="https://www.instagram.com/sendproduction.id/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" height=25></a></code>
-</p>
+
 <p>🌱 I’m currently learning everything 😄</p>
 
 ### Connect with Me:
