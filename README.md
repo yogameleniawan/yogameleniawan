@@ -26,6 +26,7 @@ Here are some ideas to get you started:
     
 ### What i do now :
 <p>
+<p>🌱 I’m currently learning everything 😄</p>
 <p>🔭 I’m currently start with Send Production
 </p>
 
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 <code><a href="https://www.linkedin.com/company/send-production/about/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height=25></a></code>
 <code><a href="https://www.instagram.com/sendproduction.id/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" height=25></a></code>
 
-<p>🌱 I’m currently learning everything 😄</p>
+
 
 ### Connect with Me:
 <code><a href="https://www.linkedin.com/in/yogameleniawan/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></code>
