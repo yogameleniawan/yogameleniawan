@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogameleniawan&&show_icons=tru&title_color=251c1a&icon_color=251c1a&text_color=251c1a&bg_color=e4e4e4&layout=compact" width="340">
 <img src="https://github-profile-trophy.vercel.app/?username=yogameleniawan&theme=flat&margin-w=10&column=8">
 
+### Languages and Tools
+<p>
+<img src="https://github.com/yogameleniawan/yogameleniawan/blob/master/tools.png" width="89%">
     
 ### What i do now :
 <p>
@@ -37,21 +40,7 @@ Here are some ideas to get you started:
 <code><a href="https://www.instagram.com/yogameleniawan/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></code>
 
 
-### Languages and Tools
-<p>
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="50px" src="https://arnondora.in.th/content/images/2021/01/Get-to-know-Java-Logo.png" />
-<img align="left" alt="Android" width="50px" src="https://abisonna.files.wordpress.com/2017/10/android-boot-logo_634639.jpg" />
-<img align="left" alt="Laravel" width="50px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
-<img align="left" alt="Flutter" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
-<img align="left" alt="Firebase" width="50px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=id" />
-<img align="left" alt="PHP" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<p><br><br>
+
 
 
 
