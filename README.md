@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=yogameleniawan" width="420">
 </div>
+<div align="center">
+<br>
+<b>Connect with Me:<b>
+<br><br>
+<code><a href="https://www.linkedin.com/in/yogameleniawan/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></code>
+<code><a href="https://www.instagram.com/yogameleniawan/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></code>
+</div>
+
 
 
 ### Languages and Tools
@@ -44,9 +52,7 @@ Here are some ideas to get you started:
 
 
 
-### Connect with Me:
-<code><a href="https://www.linkedin.com/in/yogameleniawan/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></code>
-<code><a href="https://www.instagram.com/yogameleniawan/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></code>
+
 
 
 
