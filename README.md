@@ -34,13 +34,15 @@ Here are some ideas to get you started:
 <code><a href="https://www.instagram.com/yogameleniawan/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></code>
 </div>
 
-
-
-### Languages and Tools
-<p>
+<div align="center">
+<h3>Languages and Tools</h3>
 <img src="https://github.com/yogameleniawan/yogameleniawan/blob/master/tools.png" width="89%">
+</div>
+
+
     
 ### What i do now :
+
 <p>
 <p>🌱 I’m currently learning everything 😄</p>
 <p>🔭 I’m currently start with Send Production
