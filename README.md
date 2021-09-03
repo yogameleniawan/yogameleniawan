@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-trophy.vercel.app/?username=yogameleniawan&theme=oldie&margin-w=10&column=8">
 
+<div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=yogameleniawan" width="420">
+</div>
+
 
 ### Languages and Tools
 <p>
