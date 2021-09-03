@@ -17,11 +17,17 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/yogameleniawan/yogameleniawan/blob/master/sampul1.png" >
 
+<div align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yogameleniawan&&&count_private=true&show_icons=true&title_color=251c1a&icon_color=251c1a&text_color=251c1a&bg_color=e4e4e4" width="450">
+</div>
 
+<div align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogameleniawan&&show_icons=tru&title_color=251c1a&icon_color=251c1a&text_color=251c1a&bg_color=e4e4e4&layout=compact" width="380">
+</div>
 
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=yogameleniawan&theme=oldie&margin-w=10&column=8">
+</div>
 
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=yogameleniawan" width="420">
