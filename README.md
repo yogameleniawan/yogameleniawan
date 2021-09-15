@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h3>Languages and Tools</h3>
-<img src="https://github.com/yogameleniawan/yogameleniawan/blob/master/tool.png">
+<img src="https://github.com/yogameleniawan/yogameleniawan/blob/master/tools.png">
 </div>
     
 <div align="center">
