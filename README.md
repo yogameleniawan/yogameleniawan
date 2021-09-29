@@ -35,6 +35,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 <br>
+<b>My Portfolio:<b>
+<br><br>
+<code><a href="https://yogameleniawan.github.io/" target="_blank"><img src="https://github.com/yogameleniawan/yogameleniawan/blob/master/portfolio.jpg" height=25></a></code>
+</div>
+
+<div align="center">
+<br>
 <b>Connect with Me:<b>
 <br><br>
 <code><a href="https://www.linkedin.com/in/yogameleniawan/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></code>
