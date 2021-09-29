@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 <b>My Portfolio:<b>
 <br><br>
-<code><a href="https://yogameleniawan.github.io/" target="_blank"><img src="https://github.com/yogameleniawan/yogameleniawan/blob/master/port.jpg" height=25></a></code>
+<code><a href="https://yogameleniawan.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height=25></a></code>
 </div>
 
 <div align="center">
