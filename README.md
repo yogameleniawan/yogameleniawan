@@ -56,10 +56,9 @@ Here are some ideas to get you started:
 </p>
 
 <code><img alt="Visual Studio Code" width="100px" src="https://github.com/yogameleniawan/yogameleniawan/blob/master/1.png" /></code>
-<br>
-<code><a href="https://www.linkedin.com/company/send-production/about/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height=25></a></code>
-<code><a href="https://www.instagram.com/sendproduction.id/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" height=25></a></code>
-
+<br><br>
+<code><a href="https://www.linkedin.com/company/send-production/about/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></code>
+<code><a href="https://www.instagram.com/sendproduction.id/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></code>
 </div>
 
 
