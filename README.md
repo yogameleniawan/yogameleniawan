@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 <b>My Resume:<b>
 <br><br>
-<code><a href="https://raw.githubusercontent.com/yogameleniawan/yogameleniawan/master/Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height=25></a></code>
+<code><a href="https://raw.githubusercontent.com/yogameleniawan/yogameleniawan/master/Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height=25></a></code>
 </div>
 
 <div align="center">
