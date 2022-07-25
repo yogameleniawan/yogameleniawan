@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogameleniawan&&show_icons=tru&title_color=251c1a&icon_color=251c1a&text_color=251c1a&bg_color=e4e4e4&layout=compact" width="360">
 </div>
 <br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yogameleniawan&theme=oldie&margin-w=10&column=8">
-</div>
-<br>
+
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=yogameleniawan" width="420">
 </div>
