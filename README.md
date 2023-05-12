@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 <a href="https://flutter.dev/"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_500,q_auto:good,w_500/v1/gcs/platform-data-dsc/events/1_5-aoK8IBmXve5whBQM90GA.png" width="40"></a>
 <a href="https://reactjs.org/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40"></a>
 <a href="https://nextjs.org/"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="40"></a>
+<a href="https://go.dev/"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="40"></a>
+ 
    
 <a href="https://vuejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="40"></a>
 <a href="https://tailwindcss.com/">
