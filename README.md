@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=yogameleniawan" width="420">
 </div>
 
+<br>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=yogameleniawan&label=Profile%20views&color=0e75b6&style=flat" /></div>
+
 <div align="center">
 <br>
 <b>My Resume:<b>
