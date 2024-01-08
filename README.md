@@ -40,13 +40,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 <br>
-<b>My Resume:<b>
-<br><br>
-<code><a href="https://raw.githubusercontent.com/yogameleniawan/yogameleniawan/master/Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height=25></a></code>
-</div>
-
-<div align="center">
-<br>
 <b>Tools & Languages :<b>
 <br><br>
 <a href="https://code.visualstudio.com/"><img src="https://www.returngis.net/wp-content/uploads/2015/11/VS-Code.png" width="40"></a>
