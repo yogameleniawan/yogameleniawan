@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/yogameleniawan/yogameleniawan/blob/master/sampul1.png" >
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yogameleniawan&theme=oldie&margin-w=10&column=8">
-</div>
-<br>
-
-<div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=yogameleniawan" width="420">
 </div>
 
