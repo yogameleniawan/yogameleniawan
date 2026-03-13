@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <b>Tools & Languages :<b>
 <br><br>
 <a href="https://code.visualstudio.com/"><img src="https://www.returngis.net/wp-content/uploads/2015/11/VS-Code.png" width="40"></a>
-<a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" width="40"></a>
+<a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" width="40"></a>
 <a href="https://flutter.dev/"><img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" width="40"></a>
 <a href="https://reactjs.org/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40"></a>
 <a href="https://nextjs.org/"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="40"></a>
